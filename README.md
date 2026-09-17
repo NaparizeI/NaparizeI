@@ -1,1 +1,1 @@
-<img src="https://file.garden/aoEFqwZH1zU2wS9J/napagif" width="260" height="260">
+<img src="https://file.garden/aoEFqwZH1zU2wS9J/png" alt="image" width="300" height="100%" />
